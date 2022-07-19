@@ -1,2 +1,2 @@
-streamlit
+streamlit==1.11.0
 deta==1.1.0
